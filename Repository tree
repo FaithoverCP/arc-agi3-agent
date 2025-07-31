@@ -1,0 +1,9 @@
+arc-agi3-agent/
+├─ agent.py            # 🏃 main entry-point (CLI)
+├─ policy/             # heuristics / models / MoE routers
+│   └─ __init__.py
+├─ config.yaml         # tuning parameters
+├─ run.sh              # convenience runner
+├─ requirements.txt
+├─ LICENSE             # MIT
+└─ README.md
