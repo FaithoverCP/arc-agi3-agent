@@ -1,0 +1,4 @@
+# Hyper-parameters & secret keys
+default_action: 1            # integer action for SimpleHeuristicPolicy
+openai_api_key: "replace-me" # will be read from env var in real policy
+temperature: 0.2
