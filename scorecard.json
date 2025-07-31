@@ -1,5 +1,20 @@
 {
-  "game": "tilehover",
-  "score": 5,
-  "steps": 10
+  "total_score": 15,
+  "details": [
+    {
+      "game": "tilehover",
+      "score": 5,
+      "steps": 10
+    },
+    {
+      "game": "stumps",
+      "score": 5,
+      "steps": 10
+    },
+    {
+      "game": "snails",
+      "score": 5,
+      "steps": 10
+    }
+  ]
 }
